@@ -1,0 +1,29 @@
+body {
+    background-color: #5cdb95;
+}
+
+.img-thumbnail {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+
+/* Navbar */
+
+.navbar-brand {
+    color: #05386b;
+}
+
+
+/* Card */
+
+.card {
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
